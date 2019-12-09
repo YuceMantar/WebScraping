@@ -1,0 +1,20 @@
+Herkese merhabalar. Bu web scraping ile takipçi sayısını .yaml dosyasına kaydetme uygulaması yaptım.
+Dosya uzantısını ve kodları değiştirerek .txt dosyasına da yazdırabilirsiniz.
+https://github.com/YuceMantar buradan projenin orjinal haline ulaşabilirsiniz.
+Bana mhmtlorhan@gmail.com ile ulaşabilirsiniz.
+Ayrıca uygulamayı kullanmak için beautifulsoup,pyqt5,pyinstaller kütüphanelerini harici yüklemeniz gerekiyor.
+Son olarak .exe haline getirmek için kod dosyasının olduğu yerde terminal açarak :
+pyinstaller.exe --onefile --windowed --noconsole --icon=icon.ico webscraping.py ,
+komutunu yazarak exe haline dönüştürebilirsiniz.
+Umarım işinize yarar! Kolay gelsin.
+
+
+Hello everyone. With this web scraping, I made the application of saving the number of followers to .yaml file.
+You can also print to a .txt file by changing the file extension and codes.
+https://github.com/YuceMantar here you can reach the original version of the project.
+You can contact me at mhmtlorhan@gmail.com.
+You also need to install beautifulsoup, pyqt5, pyinstaller externally to use the application.
+Finally by opening the terminal where the code file is to convert it to .exe:
+pyinstaller.exe --onefile --windowed --noconsole --icon = icon.ico webscraping.py,
+command to convert it into exe.
+Hopefully it benefits your business! Good luck with.
